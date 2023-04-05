@@ -115,9 +115,9 @@ plt.xticks(rotation = 90)
 ![mul8](https://user-images.githubusercontent.com/118671457/230136199-264ce8a4-37da-4509-b22a-3ccf12e286e0.png)
 ## SEGMENTATION:
 ![mul9](https://user-images.githubusercontent.com/118671457/230136269-cfd70653-f319-4f16-875a-4709ec154de9.png)
-## SUBPLOTS:
+## SUBPLOTS & CORRESSION:
 ![mul10](https://user-images.githubusercontent.com/118671457/230136308-376dfa74-ebbb-4ea9-b373-a0a847273ad5.png)
-## CORRESSION:
+## Heat Map:
 ![mul11](https://user-images.githubusercontent.com/118671457/230138580-13eb4d25-c2d1-4432-aa06-4ada197b74fc.png)
 
 ![mul12](https://user-images.githubusercontent.com/118671457/230136378-0d401f46-8499-495a-aa87-f2de202e70a7.png)
