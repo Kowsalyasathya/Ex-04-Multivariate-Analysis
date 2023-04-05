@@ -45,32 +45,55 @@ data.dtypes
 sns.scatterplot(x=data['Postal Code'],y=data['Region'])
 
 states=data.loc[:,["State","Postal Code"]] 
+
 states=states.groupby(by=["State"]).sum().sort_values(by="Postal Code") 
+
 plt.figure(figsize=(17,7)) 
+
 sns.barplot(x=states.index,y="Postal Code",data=states) 
-plt.xticks(rotation = 90) 
+
+plt.xticks(rotation = 90)
+
 plt.xlabel=("STATES") 
+
 plt.ylabel=("Postal Code") 
+
 plt.show()
 
-states=data.loc[:,["Segment","Sales"]] 
+
+
+states=data.loc[:,["Segment","Sales"]]
+
 states=states.groupby(by=["Segment"]).sum().sort_values(by="Sales") 
+
 plt.figure(figsize=(10,7)) 
+
 sns.barplot(x=states.index,y="Sales",data=states) 
+
 plt.xticks(rotation = 90) 
+
 plt.xlabel=("SEGMENT") 
+
 plt.ylabel=("SALES") 
+
 plt.show()
+
 
 sns.barplot(x=data['Ship Mode'],y=data['Sales'],hue=data['Region'])
 
+
 data.corr()
+
 
 sns.heatmap(data.corr(),annot=False)
 
+
 plt.figure(figsize=(10,7))
+
 sns.scatterplot(x=data['Sub-Category'],y=data['Sales'], hue=data['Ship Mode'])
+
 plt.xticks(rotation = 90)
+
 
 ## Output:
 
