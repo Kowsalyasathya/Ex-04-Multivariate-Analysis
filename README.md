@@ -104,9 +104,9 @@ plt.xticks(rotation = 90)
 ## Info:
 ![mul3](https://user-images.githubusercontent.com/118671457/230136666-a71cf6eb-67e4-46da-bc6c-33aa171e1d4a.png)
 
-## Describe:
+## Describe & Isnull:
 ![mul4](https://user-images.githubusercontent.com/118671457/230135708-cfc5b734-53b8-43a8-af8c-b122c9996925.png)
-## Isnull & Data Type::
+## Data Type::
 ![mul5](https://user-images.githubusercontent.com/118671457/230135820-9814ea36-d4e7-4b1b-9bc5-eeaa5c6d4166.png)
 ## ScatterPlot:
 ![mul6](https://user-images.githubusercontent.com/118671457/230135871-abbcedf1-a17e-41cb-bba5-277feb5b5bb1.png)
@@ -118,7 +118,8 @@ plt.xticks(rotation = 90)
 ## SUBPLOTS:
 ![mul10](https://user-images.githubusercontent.com/118671457/230136308-376dfa74-ebbb-4ea9-b373-a0a847273ad5.png)
 ## CORRESSION:
-![multi1](https://user-images.githubusercontent.com/118671457/230136341-a94e69c6-76bb-42fa-bada-80d2bf9af574.png)
+![mul11](https://user-images.githubusercontent.com/118671457/230138580-13eb4d25-c2d1-4432-aa06-4ada197b74fc.png)
+
 ![mul12](https://user-images.githubusercontent.com/118671457/230136378-0d401f46-8499-495a-aa87-f2de202e70a7.png)
 
 
