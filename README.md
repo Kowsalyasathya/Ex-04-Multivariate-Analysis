@@ -124,5 +124,8 @@ plt.xticks(rotation = 90)
 
 ![mul12](https://user-images.githubusercontent.com/118671457/230136378-0d401f46-8499-495a-aa87-f2de202e70a7.png)
 
+## RESULT
+
+Hence The Performance of the Multivariate EDA on the given data set is verified.
 
 
