@@ -1,5 +1,9 @@
 # Ex-04-Multivariate-Analysis
+## AIM:
+
+To perform Multivariate EDA on the given data set.
 ## ALGORITHM:
+
 ## STEP 1
 
 Import the built libraries required to perform EDA and outlier removal.
